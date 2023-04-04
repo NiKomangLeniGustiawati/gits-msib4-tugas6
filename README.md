@@ -9,7 +9,6 @@
 ## :star: Technology Used:
 
  - Laravel 9
- - SweetAlert
  - Bootstrap 5
 
 
